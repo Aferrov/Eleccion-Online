@@ -31,7 +31,7 @@ El Proyecto Final debe implementar una aplicación web con las siguientes caract
     -   **Principios SOLID**: Aplicación de los principios de diseño de software.
     -   **Domain-Driven Design (DDD)**: Diseño orientado al dominio para modelar el negocio de manera efectiva.
 
-## Entregible
+## Entregable
 
 ### Proyecto (codigo fuente y documentacion) en Github
 
